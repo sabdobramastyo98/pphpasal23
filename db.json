@@ -1,0 +1,139 @@
+{
+  "pphpasal23" : [
+    {
+      "id" : 1,
+      "soal" : "Pajak Penghasilan (PPh) Pasal 23 adalah pajak yang dikenakan atas penghasilan berupa modal, penyerahan jasa, atau hadiah dan penghargaan, selain yang telah dipotong PPh Pasal 21.Berikut ini adalah objek pemotong PPh Pasal 23, kecuali …",
+      "jawabana" :  "Dividen",
+      "jawabanb" :  "Royalti",
+      "jawabanc" :  "Pendapatan yang dibayar atau terutang kepada pihak perbankan",
+      "jawaband" :  "Bunga, termasuk premium, diskonto, dan imbalan sehubungan dengan jaminan pengembalian utang.",
+      "kuncijawaban" : "jawabanc"
+    },
+    {
+      "id" : 2,
+      "soal" : "Tarif PPh Pasal 23 untuk penerimaan dividen kecuali pembagian dividen kepada orang pribadi dikenakan final, bunga, dan royalty adalah sebesar …",
+      "jawabana" :  "15%",
+      "jawabanb" :  "2%",
+      "jawabanc" :  "10%",
+      "jawaband" :  "20%",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 3,
+      "soal" : "Tarif PPh Pasal 23 atas imbalan jasa di bidang teknik, manajemen, konstruksi dan konsultan adalah sebesar …",
+      "jawabana" :  "15%",
+      "jawabanb" :  "2%",
+      "jawabanc" :  "10%",
+      "jawaband" :  "20%",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 4,
+      "soal" : "PPh Pasal 23 mengatur mengenai jadwal penyetoran dan pelaporan PPh Pasal 23. Untuk SPT Masa akan disampaikan ke Kantor Pelayanan Pajak setempat paling lambat …",
+      "jawabana" :  "20 hari setelah masa pajak berakhir",
+      "jawabanb" :  "10 hari setelah bulan saat terutang pajak.",
+      "jawabanc" :  "akhir bulan tanggal tersebut",
+      "jawaband" :  "15 hari setelah masa pajak berakhir",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 5,
+      "soal" : "PPh Pasal 23 mengatur mengenai jadwal penyetoran dan pelaporan PPh Pasal 23. Sedangkan, PPh Pasal 23 disetor Pemotong Pajak paling lambat …",
+      "jawabana" :  "20 hari setelah masa pajak berakhir",
+      "jawabanb" :  "10 hari setelah bulan saat terutang pajak.",
+      "jawabanc" :  "akhir bulan tanggal tersebut",
+      "jawaband" :  "15 hari setelah masa pajak berakhir",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 6,
+      "soal" : "Pada tanggal 2 september 2016, PT Gramedia membayar royalti kepada Ibu Nana sebagai penulis buku sebesar Rp45.000.000. Diketahui juga bahwa Ibu Nani telah memiliki NPWP (Nomor Pokok Wajib Pajak). PPh Pasal 23 yang harus dipotong PT Gramedia adalah sebesar …",
+      "jawabana" :  "Rp5.250.000",
+      "jawabanb" :  "Rp6.750.000",
+      "jawabanc" :  "Rp6.250.000",
+      "jawaband" :  "Rp5.750.000",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 7,
+      "soal" : "Pada tanggal 3 September 2017, PT Gramedia membayar royalti kepada Ibu Tuti sebagai penulis buku sebesar Rp25.000.000. Diketahui juga bahwa Ibu Tuti telah memiliki NPWP (Nomor Pokok Wajib Pajak). Maka PT Gramedia harus melakukan penyetoran pada tanggal …",
+      "jawabana" :  "Paling lambat 10 Oktober 2017",
+      "jawabanb" :  "Paling lambat 20 Oktober 2017",
+      "jawabanc" :  "Akhir bulan 30 September 2017",
+      "jawaband" :  "Akhir bulan 31 Oktober 2017",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 8,
+      "soal" : "Pada tanggal 2 Maret 2017, PT Ali Baba memberikan hadiah kepada PT Baba sebagai juara atas perlombaan yang diselenggarakan oleh PT Ali Baba sebesar Rp150.000.000. Diketahui baik PT Ali Baba maupun PT Baba keduanya telah memiliki NPWP. PPh Pasal 23 yang harus dipotong PT Ali Baba adalah sebesar …",
+      "jawabana" :  "Rp15.000.000",
+      "jawabanb" :  "Rp20.000.000",
+      "jawabanc" :  "Rp22.500.000",
+      "jawaband" :  "17.500.000",
+      "kuncijawaban" : "jawabanc"
+    },
+    {
+      "id" : 9,
+      "soal" : "Pada bulan April 2017 PT “ZA” adalah perusahaan yang bergerak di bidang garment, untuk urusan perpajakannya dia menyewa PT “XZ” sebagai konsultan pajaknya dengan fee sebesar Rp35.000.000 (sudah termasuk PPN), namun PT “XZ” belum memiliki NPWP. PPh Pasal 23 yang harus dipotong PT “ZA” adalah sebesar …",
+      "jawabana" :  "Rp1.000.000",
+      "jawabanb" :  "Rp1.500.000",
+      "jawabanc" :  "Rp1.300.000",
+      "jawaband" :  "Rp1.400.000",
+      "kuncijawaban" : "jawaband"
+    },
+    {
+      "id" : 10,
+      "soal" : "Berdasarkan soal no 4, PT “ZA” harus melakukan pelaporan atas pembayaran penyewan konsultan pajak pada tanggal …",
+      "jawabana" :  "Paling lambat 20 Mei 2017",
+      "jawabanb" :  "Paling lambat tgl 10 Mei 2017",
+      "jawabanc" :  "Akhir bulan 31 Mei 2017",
+      "jawaband" :  "Akhir bulan 30 April 2017",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 11,
+      "soal" : "Pada tanggal 3 November 2018, PT Sumber Rejeki membayar royalti kepada YouArt sebagai perusahaan arsitektur sebesar Rp95.000.000. PPh Pasal 23 yang harus dipotong PT Sumber Rejeki adalah sebesar …",
+      "jawabana" :  "Rp22.500.000",
+      "jawabanb" :  "Rp18.000.000",
+      "jawabanc" :  "Rp14.250.000",
+      "jawaband" :  "Rp16.250.000",
+      "kuncijawaban" : "jawabanc"
+    },
+    {
+      "id" : 12,
+      "soal" : "Pada tanggal 3 Januari 2015, PT Makmur melakukan pembayaran bunga obligasi kepada PT Sentosa sebesar Rp65.000.000. Obligasi tersebut tidak diperdagangkan di Bursa Efek Indonesia. PPh Pasal 23 yang harus dipotong oleh PT Makmur adalah sebesar …",
+      "jawabana" :  "Rp11.250.000",
+      "jawabanb" :  "Rp9.750.000",
+      "jawabanc" :  "Rp10.500.000",
+      "jawaband" :  "Rp8.750.000",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 13,
+      "soal" : "PT Mangrove meminta jasa dari Pak Satria untuk membuat sistem akuntansi perusahaan dengan imbalan sebesar Rp80.000.000 (sudah termasuk PPN). PPh Pasal 23 yang harus dipotong oleh PT Mangrove adalah sebesar …",
+      "jawabana" :  "Rp1.500.000",
+      "jawabanb" :  "Rp1.600.000",
+      "jawabanc" :  "Rp800.000",
+      "jawaband" :  "Rp12.000.000",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 14,
+      "soal" : "PT Indoraya membayarkan jasa konsultan dari PT Nuansaraya sebesar Rp125.000.000 (sudah termasuk PPN). PT Nuansaraya tidak mempunyai NPWP. PPh Pasal 23 yang harus dipotong oleh PT Indoraya adalah sebesar …",
+      "jawabana" :  "Rp5.000.000",
+      "jawabanb" :  "Rp4.800.000",
+      "jawabanc" :  "Rp5.200.000",
+      "jawaband" :  "Rp4.000.000",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 15,
+      "soal" : "PT Sulisindo membayarkan deviden kepada CV Perkasa pada bulan Maret 2009 sebesar Rp.300.000.000. PPh pasal 23 yang harus dipotong PT. Solusindo adalah sebesar … ",
+      "jawabana" :  "Rp35.000.000",
+      "jawabanb" :  "Rp37.500.000",
+      "jawabanc" :  "Rp45.000.000",
+      "jawaband" :  "Rp30.000.000",
+      "kuncijawaban" : "jawabanc"
+    }
+  ]
+}
