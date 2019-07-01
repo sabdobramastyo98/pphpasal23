@@ -7,7 +7,7 @@
       "jawabanb" :  "Royalti",
       "jawabanc" :  "Pendapatan yang dibayar atau terutang kepada pihak perbankan",
       "jawaband" :  "Bunga, termasuk premium, diskonto, dan imbalan sehubungan dengan jaminan pengembalian utang.",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Pendapatan yang dibayar atau terutang kepada pihak perbankan"
     },
     {
       "id" : 2,
@@ -16,7 +16,7 @@
       "jawabanb" :  "2%",
       "jawabanc" :  "10%",
       "jawaband" :  "20%",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "15%"
     },
     {
       "id" : 3,
@@ -25,7 +25,7 @@
       "jawabanb" :  "2%",
       "jawabanc" :  "10%",
       "jawaband" :  "20%",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "2%"
     },
     {
       "id" : 4,
@@ -34,7 +34,7 @@
       "jawabanb" :  "10 hari setelah bulan saat terutang pajak.",
       "jawabanc" :  "akhir bulan tanggal tersebut",
       "jawaband" :  "15 hari setelah masa pajak berakhir",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "20 hari setelah masa pajak berakhir"
     },
     {
       "id" : 5,
@@ -43,7 +43,7 @@
       "jawabanb" :  "10 hari setelah bulan saat terutang pajak.",
       "jawabanc" :  "akhir bulan tanggal tersebut",
       "jawaband" :  "15 hari setelah masa pajak berakhir",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "10 hari setelah bulan saat terutang pajak."
     },
     {
       "id" : 6,
@@ -52,7 +52,7 @@
       "jawabanb" :  "Rp6.750.000",
       "jawabanc" :  "Rp6.250.000",
       "jawaband" :  "Rp5.750.000",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Rp6.750.000"
     },
     {
       "id" : 7,
@@ -61,7 +61,7 @@
       "jawabanb" :  "Paling lambat 20 Oktober 2017",
       "jawabanc" :  "Akhir bulan 30 September 2017",
       "jawaband" :  "Akhir bulan 31 Oktober 2017",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Paling lambat 10 Oktober 2017"
     },
     {
       "id" : 8,
@@ -70,7 +70,7 @@
       "jawabanb" :  "Rp20.000.000",
       "jawabanc" :  "Rp22.500.000",
       "jawaband" :  "17.500.000",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Rp22.500.000"
     },
     {
       "id" : 9,
@@ -79,7 +79,7 @@
       "jawabanb" :  "Rp1.500.000",
       "jawabanc" :  "Rp1.300.000",
       "jawaband" :  "Rp1.400.000",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "Rp1.400.000"
     },
     {
       "id" : 10,
@@ -88,7 +88,7 @@
       "jawabanb" :  "Paling lambat tgl 10 Mei 2017",
       "jawabanc" :  "Akhir bulan 31 Mei 2017",
       "jawaband" :  "Akhir bulan 30 April 2017",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Paling lambat 20 Mei 2017"
     },
     {
       "id" : 11,
@@ -97,7 +97,7 @@
       "jawabanb" :  "Rp18.000.000",
       "jawabanc" :  "Rp14.250.000",
       "jawaband" :  "Rp16.250.000",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Rp14.250.000"
     },
     {
       "id" : 12,
@@ -106,7 +106,7 @@
       "jawabanb" :  "Rp9.750.000",
       "jawabanc" :  "Rp10.500.000",
       "jawaband" :  "Rp8.750.000",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Rp9.750.000"
     },
     {
       "id" : 13,
@@ -115,7 +115,7 @@
       "jawabanb" :  "Rp1.600.000",
       "jawabanc" :  "Rp800.000",
       "jawaband" :  "Rp12.000.000",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Rp1.600.000"
     },
     {
       "id" : 14,
@@ -124,7 +124,7 @@
       "jawabanb" :  "Rp4.800.000",
       "jawabanc" :  "Rp5.200.000",
       "jawaband" :  "Rp4.000.000",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Rp5.000.000"
     },
     {
       "id" : 15,
@@ -133,7 +133,7 @@
       "jawabanb" :  "Rp37.500.000",
       "jawabanc" :  "Rp45.000.000",
       "jawaband" :  "Rp30.000.000",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Rp45.000.000"
     }
   ]
 }
